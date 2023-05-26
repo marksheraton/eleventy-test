@@ -1,0 +1,22 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<title>Eleventy Test</title>
+	<meta name="description" content="A simple template for new projects.">
+	<meta name="author" content="North Sea Design">
+
+	<script src="https://cdn.tailwindcss.com?plugins=forms,typography,aspect-ratio,line-clamp"></script>
+	<script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.12.1/dist/cdn.min.js"></script>	
+</head>
+
+<body>
+
+	{{ content | safe }}
+
+	{% include 'partials/_footer.html' %}
+</body>
+</html>
