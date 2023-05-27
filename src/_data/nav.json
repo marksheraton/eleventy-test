@@ -1,0 +1,20 @@
+{
+	"items": [
+		{
+			"text": "Product",
+			"url": "/product"
+		},
+		{
+			"text": "Features",
+			"url": "/features"
+		},
+		{
+			"text": "Marketplace",
+			"url": "/marketplace"
+		},
+		{
+			"text": "Company",
+			"url": "/company"
+		}
+	]
+}
