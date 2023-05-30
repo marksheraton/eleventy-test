@@ -13,6 +13,9 @@ image: 'https://images.unsplash.com/photo-1685276151314-7fe5f99650ee?ixlib=rb-4.
 		<p class="text-base font-semibold leading-7 text-indigo-600">Introducing</p>
 		<h1 class="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">{{ title }}</h1>
 		<p class="mt-6 text-xl leading-8">Aliquet nec orci mattis amet quisque ullamcorper neque, nibh sem. At arcu, sit dui mi, nibh dui, diam eget aliquam. Quisque id at vitae feugiat egestas ac. Diam nulla orci at in viverra scelerisque eget. Eleifend egestas fringilla sapien.</p>
+		
+		{% include 'partials/_blog-image.html' %}
+		
 		<div class="mt-10 max-w-2xl">
 			<p>Faucibus commodo massa rhoncus, volutpat. Dignissim sed eget risus enim. Mattis mauris semper sed amet vitae sed turpis id. Id dolor praesent donec est. Odio penatibus risus viverra tellus varius sit neque erat velit. Faucibus commodo massa rhoncus, volutpat. Dignissim sed eget risus enim. Mattis mauris semper sed amet vitae sed turpis id.</p>
 			<ul role="list" class="mt-8 max-w-xl space-y-8 text-gray-600">
@@ -49,15 +52,6 @@ image: 'https://images.unsplash.com/photo-1685276151314-7fe5f99650ee?ixlib=rb-4.
 			</figure>
 			<p class="mt-10">Faucibus commodo massa rhoncus, volutpat. Dignissim sed eget risus enim. Mattis mauris semper sed amet vitae sed turpis id. Id dolor praesent donec est. Odio penatibus risus viverra tellus varius sit neque erat velit.</p>
 		</div>
-		<figure class="mt-16">
-			<img class="aspect-video rounded-xl bg-gray-50 object-cover" src="{{ image }}" alt="">
-			<figcaption class="mt-4 flex gap-x-2 text-sm leading-6 text-gray-500">
-				<svg class="mt-0.5 h-5 w-5 flex-none text-gray-300" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
-					<path fill-rule="evenodd" d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-7-4a1 1 0 11-2 0 1 1 0 012 0zM9 9a.75.75 0 000 1.5h.253a.25.25 0 01.244.304l-.459 2.066A1.75 1.75 0 0010.747 15H11a.75.75 0 000-1.5h-.253a.25.25 0 01-.244-.304l.459-2.066A1.75 1.75 0 009.253 9H9z" clip-rule="evenodd" />
-				</svg>
-				Faucibus commodo massa rhoncus, volutpat.
-			</figcaption>
-		</figure>
 		<div class="mt-16 max-w-2xl">
 			<h2 class="text-2xl font-bold tracking-tight text-gray-900">Everything you need to get up and running</h2>
 			<p class="mt-6">Purus morbi dignissim senectus mattis adipiscing. Amet, massa quam varius orci dapibus volutpat cras. In amet eu ridiculus leo sodales cursus tristique. Tincidunt sed tempus ut viverra ridiculus non molestie. Gravida quis fringilla amet eget dui tempor dignissim. Facilisis auctor venenatis varius nunc, congue erat ac. Cras fermentum convallis quam.</p>
