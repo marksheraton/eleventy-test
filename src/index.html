@@ -10,7 +10,7 @@ gradient_classes: "from-lime-400 to-blue-300"
 	<div class="hidden sm:mb-8 sm:flex sm:justify-center">
 		{%- for item in collections.feature.slice(0,1) -%}
 		<div class="relative rounded-full px-3 py-1 text-sm leading-6 text-gray-600 ring-1 ring-gray-900/10 hover:ring-gray-900/20 hover:bg-gray-50">
-			Announcing our fourth round of funding. <a href="{{ item.url }}" class="font-semibold text-indigo-600"><span class="absolute inset-0" aria-hidden="true"></span>Read more <span aria-hidden="true">&rarr;</span></a>
+			{{ item.data.title }}. <a href="{{ item.url }}" class="font-semibold text-indigo-600"><span class="absolute inset-0" aria-hidden="true"></span>Read more <span aria-hidden="true">&rarr;</span></a>
 		</div>
 		{%- endfor -%}
 	</div>
