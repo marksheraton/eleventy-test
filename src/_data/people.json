@@ -2,27 +2,31 @@
 	"items": [
 		{
 			"name": "Micah Lorenz",
+			"firstName": "Micah",
 			"title": "Campus Pastor",
-			"email": "micah.lorenz@northwestu.edu"
-			"image": "micah-2023.jpg"
+			"email": "micah.lorenz@northwestu.edu",
+			"image": "/assets/images/micah-2023.webp"
 		},
 		{
 			"name": "Jamie Shores",
+			"firstName": "Jamie",
 			"title": "Campus Pastor",
-			"email": "jamie.shores@northwestu.edu"
-			"image": "jamie-2023.jpg"
+			"email": "jamie.shores@northwestu.edu",
+			"image": "/assets/images/jamie-2023.webp"
 		},
 		{
 			"name": "Kelsey Landis",
+			"firstName": "Kelsey",
 			"title": "Office Manager",
-			"email": "kelsey.landis@northwestu.edu"
-			"image": "kelsey-2023.jpg"
+			"email": "kelsey.landis@northwestu.edu",
+			"image": "/assets/images/kelsey-2023.webp"
 		},
 		{
 			"name": "Gio Barrios",
+			"firstName": "Gio",
 			"title": "Media Services Director",
-			"email": "gio.barrios@northwestu.edu"
-			"image": "gio-2023.jpg"
-		},
+			"email": "gio.barrios@northwestu.edu",
+			"image": "/assets/images/gio-2023.webp"
+		}
 	]
 }
