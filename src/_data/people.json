@@ -1,0 +1,28 @@
+{
+	"items": [
+		{
+			"name": "Micah Lorenz",
+			"title": "Campus Pastor",
+			"email": "micah.lorenz@northwestu.edu"
+			"image": "micah-2023.jpg"
+		},
+		{
+			"name": "Jamie Shores",
+			"title": "Campus Pastor",
+			"email": "jamie.shores@northwestu.edu"
+			"image": "jamie-2023.jpg"
+		},
+		{
+			"name": "Kelsey Landis",
+			"title": "Office Manager",
+			"email": "kelsey.landis@northwestu.edu"
+			"image": "kelsey-2023.jpg"
+		},
+		{
+			"name": "Gio Barrios",
+			"title": "Media Services Director",
+			"email": "gio.barrios@northwestu.edu"
+			"image": "gio-2023.jpg"
+		},
+	]
+}
