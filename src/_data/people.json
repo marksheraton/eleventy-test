@@ -5,6 +5,7 @@
 			"firstName": "Micah",
 			"title": "Campus Pastor",
 			"email": "micah.lorenz@northwestu.edu",
+			"role": "staff",
 			"image": "/assets/images/micah-2023.webp"
 		},
 		{
@@ -12,6 +13,7 @@
 			"firstName": "Jamie",
 			"title": "Campus Pastor",
 			"email": "jamie.shores@northwestu.edu",
+			"role": "staff",
 			"image": "/assets/images/jamie-2023.webp"
 		},
 		{
@@ -19,6 +21,7 @@
 			"firstName": "Kelsey",
 			"title": "Office Manager",
 			"email": "kelsey.landis@northwestu.edu",
+			"role": "staff",
 			"image": "/assets/images/kelsey-2023.webp"
 		},
 		{
@@ -26,7 +29,80 @@
 			"firstName": "Gio",
 			"title": "Media Services Director",
 			"email": "gio.barrios@northwestu.edu",
+			"role": "staff",
 			"image": "/assets/images/gio-2023.webp"
+		},
+		{
+			"name": "Milan Araujo",
+			"firstName": "Milan",
+			"title": "Life Groups Student Coordinator",
+			"email": "milan.araujo@northwestu.edu",
+			"role": "student",
+			"image": "https://images.squarespace-cdn.com/content/v1/5f04e93b93b96b19862dacc4/1661379061338-7PFTVZPEMDMQQRA0KH9S/220816_CampusMinistries-0238.jpg?format=500w"
+		},
+		{
+			"name": "Eavan Gilhuly",
+			"firstName": "Eavan",
+			"title": "Missions Student Coordinator",
+			"email": "eavan.gilhuly@northwestu.edu",
+			"role": "student",
+			"image": "https://images.squarespace-cdn.com/content/v1/5f04e93b93b96b19862dacc4/1661379562663-67OGDDKJ4CIA6AJO1HIN/220816_CampusMinistries-0247.jpg?format=500w"
+		},
+		{
+			"name": "Tanner Bailey",
+			"firstName": "Tanner",
+			"title": "Chapel Media Student Coordinator",
+			"email": "tanner.bailey@northwestu.edu",
+			"role": "student",
+			"image": "https://images.squarespace-cdn.com/content/v1/5f04e93b93b96b19862dacc4/1661378953933-PSSDKGLWL1L4V5VUHEI4/220816_CampusMinistries-0242.jpg?format=500w"
+		},
+		{
+			"name": "Karste Wright",
+			"firstName": "Karste",
+			"title": "Prayer Student Coordinator",
+			"email": "karste.wright@northwestu.edu",
+			"role": "student",
+			"image": "https://images.squarespace-cdn.com/content/v1/5f04e93b93b96b19862dacc4/1661379798809-E9WCUFYLP8RHLJF7JOTH/220816_CampusMinistries-0130.jpg?format=500w"
+		},
+		{
+			"name": "Ryan Anderson",
+			"firstName": "Ryan",
+			"title": "Graphic Design & Marketing Student Coordinator",
+			"email": "ryan.anderson@northwestu.edu",
+			"role": "student",
+			"image": "https://images.squarespace-cdn.com/content/v1/5f04e93b93b96b19862dacc4/1661379371907-Y7MLBNKJJ71824V0TACW/220816_CampusMinistries-0230.jpg?format=500w"
+		},
+		{
+			"name": "Kelsi Wright",
+			"firstName": "Kelsi",
+			"title": "Gatherings Student Coordinator",
+			"email": "kelsi.wright@northwestu.edu",
+			"role": "student",
+			"image": "https://images.squarespace-cdn.com/content/v1/5f04e93b93b96b19862dacc4/1661379745276-ZML88XH85NN0LFN3AIS6/220816_CampusMinistries-0256.jpg?format=500w"
+		},
+		{
+			"name": "Moriah Graves",
+			"firstName": "Moriah",
+			"title": "Worship Student Coordinator",
+			"email": "moriah.graves@northwestu.edu",
+			"role": "student",
+			"image": "https://images.squarespace-cdn.com/content/v1/5f04e93b93b96b19862dacc4/1661379954314-IDOK9YQD6VXTZRGKURWP/220816_CampusMinistries-0260.jpg?format=500w"
+		},
+		{
+			"name": "Ana Brestin",
+			"firstName": "Ana",
+			"title": "Choralons & Hospitality Student Coordinator",
+			"email": "ana.brestin@northwestu.edu",
+			"role": "student",
+			"image": "https://images.squarespace-cdn.com/content/v1/5f04e93b93b96b19862dacc4/1661379615379-NJJWKG0921CCQCEUS7RB/220816_CampusMinistries-0251.jpg?format=500w"
+		},
+		{
+			"name": "Melina Sagabaen",
+			"firstName": "Melina",
+			"title": "Photography & Social Media Student Coordinator",
+			"email": "melina.sagabaen@northwestu.edu",
+			"role": "student",
+			"image": "https://images.squarespace-cdn.com/content/v1/5f04e93b93b96b19862dacc4/1661379511318-LEWW5EGOMFJGUYB26Z2S/220816_CampusMinistries-0264.jpg?format=500w"
 		}
 	]
 }
