@@ -941,8 +941,16 @@ video {
   flex-wrap: wrap;
 }
 
+.items-start {
+  align-items: flex-start;
+}
+
 .items-center {
   align-items: center;
+}
+
+.justify-start {
+  justify-content: flex-start;
 }
 
 .justify-end {
@@ -1462,6 +1470,10 @@ video {
 
 .leading-9 {
   line-height: 2.25rem;
+}
+
+.leading-4 {
+  line-height: 1rem;
 }
 
 .tracking-tight {
