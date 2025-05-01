@@ -3,6 +3,7 @@
 		{
 			"name": "Micah Lorenz",
 			"firstName": "Micah",
+			"lastName": "Lorenz",
 			"title": "Campus Pastor",
 			"email": "micah.lorenz@northwestu.edu",
 			"role": "staff",
@@ -11,6 +12,7 @@
 		{
 			"name": "Jamie Shores",
 			"firstName": "Jamie",
+			"lastName": "Shores",
 			"title": "Campus Pastor",
 			"email": "jamie.shores@northwestu.edu",
 			"role": "staff",
@@ -19,6 +21,7 @@
 		{
 			"name": "Kelsey Landis",
 			"firstName": "Kelsey",
+			"lastName": "Landis",
 			"title": "Office Manager",
 			"email": "kelsey.landis@northwestu.edu",
 			"role": "staff",
@@ -27,6 +30,7 @@
 		{
 			"name": "Gio Barrios",
 			"firstName": "Gio",
+			"lastName": "Barrios",
 			"title": "Media Services Director",
 			"email": "gio.barrios@northwestu.edu",
 			"role": "staff",
@@ -35,6 +39,7 @@
 		{
 			"name": "Milan Araujo",
 			"firstName": "Milan",
+			"lastName": "Araujo",
 			"title": "Life Groups Student Coordinator",
 			"email": "milan.araujo@northwestu.edu",
 			"role": "student",
@@ -43,6 +48,7 @@
 		{
 			"name": "Eavan Gilhuly",
 			"firstName": "Eavan",
+			"lastName": "Gilhuly",
 			"title": "Missions Student Coordinator",
 			"email": "eavan.gilhuly@northwestu.edu",
 			"role": "student",
@@ -51,6 +57,7 @@
 		{
 			"name": "Tanner Bailey",
 			"firstName": "Tanner",
+			"lastName": "Bailey",
 			"title": "Chapel Media Student Coordinator",
 			"email": "tanner.bailey@northwestu.edu",
 			"role": "student",
@@ -59,6 +66,7 @@
 		{
 			"name": "Karste Wright",
 			"firstName": "Karste",
+			"lastName": "Wright",
 			"title": "Prayer Student Coordinator",
 			"email": "karste.wright@northwestu.edu",
 			"role": "student",
@@ -67,6 +75,7 @@
 		{
 			"name": "Ryan Anderson",
 			"firstName": "Ryan",
+			"lastName": "Anderson",
 			"title": "Graphic Design & Marketing Student Coordinator",
 			"email": "ryan.anderson@northwestu.edu",
 			"role": "student",
@@ -75,6 +84,7 @@
 		{
 			"name": "Kelsi Wright",
 			"firstName": "Kelsi",
+			"lastName": "Wright",
 			"title": "Gatherings Student Coordinator",
 			"email": "kelsi.wright@northwestu.edu",
 			"role": "student",
@@ -83,6 +93,7 @@
 		{
 			"name": "Moriah Graves",
 			"firstName": "Moriah",
+			"lastName": "Graves",
 			"title": "Worship Student Coordinator",
 			"email": "moriah.graves@northwestu.edu",
 			"role": "student",
@@ -91,6 +102,7 @@
 		{
 			"name": "Ana Brestin",
 			"firstName": "Ana",
+			"lastName": "Brestin",
 			"title": "Choralons & Hospitality Student Coordinator",
 			"email": "ana.brestin@northwestu.edu",
 			"role": "student",
@@ -99,6 +111,7 @@
 		{
 			"name": "Melina Sagabaen",
 			"firstName": "Melina",
+			"lastName": "Sagabaen",
 			"title": "Photography & Social Media Student Coordinator",
 			"email": "melina.sagabaen@northwestu.edu",
 			"role": "student",
