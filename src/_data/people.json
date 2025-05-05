@@ -1,6 +1,14 @@
 {
 	"items": [
 		{
+			"name": "Michael Lorne",
+			"firstName": "Michael",
+			"title": "Show Runner",
+			"email": "michael.lorne@northwestu.edu",
+			"role": "staff",
+			"image": "/assets/images/micah-2023.webp"
+		},
+		{
 			"name": "Micah Lorenz",
 			"firstName": "Micah",
 			"lastName": "Lorenz",

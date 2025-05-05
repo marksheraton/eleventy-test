@@ -1,4 +1,10 @@
 <div class="bg-gray-100">
+	<style>
+		[data-state=active] {
+			background-color: #111827;
+			color: #fff;
+		}
+	</style>
 	<nav x-data="{ open: false }" class="bg-gray-800">
 		<div class="mx-auto max-w-7xl px-2 sm:px-6 lg:px-8">
 			<div class="relative flex h-16 items-center justify-between">
@@ -23,7 +29,7 @@
 					<div class="hidden sm:ml-6 sm:block">
 						<div class="flex space-x-4">
 							{% for item in nav.items %}
-							<a href="{{ item.url }}" {{ helpers.isCurrentPage(item.url, page.url) | safe }} class="hover:bg-gray-700 hover:text-white rounded-md px-3 py-2 text-sm font-medium {{ 'text-white bg-gray-900' if item.url in page.url else 'text-gray-300' }}">{{ item.text }}</a>
+							<a href="{{ item.url }}" {{ helpers.isCurrentPage(item.url, page.url) | safe }} class="text-gray-300 hover:bg-gray-700 hover:text-white rounded-md px-3 py-2 text-sm font-medium">{{ item.text }}</a>
 							{% endfor %}
 						</div>
 					</div>

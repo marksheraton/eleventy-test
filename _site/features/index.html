@@ -16,6 +16,12 @@
 
 <body>
 	<div class="bg-gray-100">
+	<style>
+		[data-state=active] {
+			background-color: #111827;
+			color: #fff;
+		}
+	</style>
 	<nav x-data="{ open: false }" class="bg-gray-800">
 		<div class="mx-auto max-w-7xl px-2 sm:px-6 lg:px-8">
 			<div class="relative flex h-16 items-center justify-between">
@@ -40,13 +46,13 @@
 					<div class="hidden sm:ml-6 sm:block">
 						<div class="flex space-x-4">
 							
-							<a href="/product"  class="hover:bg-gray-700 hover:text-white rounded-md px-3 py-2 text-sm font-medium text-gray-300">Product</a>
+							<a href="/product"  class="text-gray-300 hover:bg-gray-700 hover:text-white rounded-md px-3 py-2 text-sm font-medium">Product</a>
 							
-							<a href="/features"  data-state="active" class="hover:bg-gray-700 hover:text-white rounded-md px-3 py-2 text-sm font-medium text-white bg-gray-900">Features</a>
+							<a href="/features"  data-state="active" class="text-gray-300 hover:bg-gray-700 hover:text-white rounded-md px-3 py-2 text-sm font-medium">Features</a>
 							
-							<a href="/marketplace"  class="hover:bg-gray-700 hover:text-white rounded-md px-3 py-2 text-sm font-medium text-gray-300">Marketplace</a>
+							<a href="/marketplace"  class="text-gray-300 hover:bg-gray-700 hover:text-white rounded-md px-3 py-2 text-sm font-medium">Marketplace</a>
 							
-							<a href="/company"  class="hover:bg-gray-700 hover:text-white rounded-md px-3 py-2 text-sm font-medium text-gray-300">Company</a>
+							<a href="/company"  class="text-gray-300 hover:bg-gray-700 hover:text-white rounded-md px-3 py-2 text-sm font-medium">Company</a>
 							
 						</div>
 					</div>
@@ -586,8 +592,7 @@
 </script>
 
 	
-
-<div class="bg-gradient-to-b py-16 from-white via-white to-indigo-100">
+<div class="bg-gradient-to-b from-white via-white to-indigo-100 py-16">
 	<div class="mx-auto max-w-7xl px-6 lg:px-8">
 		<div class="mx-auto max-w-2xl sm:text-center">
 			<h2 class="text-base font-semibold leading-7 text-indigo-600">Extra special</h2>
